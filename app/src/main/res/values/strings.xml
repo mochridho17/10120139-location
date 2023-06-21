@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">10120139-mochamadridho</string>
+    <string name="home">10120139-mochamadridho</string>
+    <string name="nim">Nim : 10120139</string>
+    <string name="nama">Nama : Mochamad Ridho</string>
+    <string name="kelas">Kelas : IF4</string>
+    <string name="email">Email : moch.ridho17@gmail.com</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="417dp"
+        android:src="@drawable/wellcome" />
+
+    <TextView
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:text="Aplikasi ini dibuat untuk melihat lokasi
+pengguna dan 5 lokasi tempat makan  favotit"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:layout_width="366dp"
+        android:layout_height="wrap_content"
+        android:text="silahkan klik menu Lokasi untuk
+        melihat lokasi anda saat ini ==>"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:padding="20dp"/>
+
+
+</LinearLayout>
